@@ -4,7 +4,7 @@
 
 Games Design and Development student at the University of Greenwich with a strong interest in **3D environment art**, **3D modelling**, and **game development**.
 
-I enjoy building immersive environments, creating 3D assets, and developing interactive experiences across both technical and creative projects. My work has included real-time environment creation, game design documentation, UI development, animation planning, and gameplay systems using tools such as **Maya, Unity, Unreal Engine, Photoshop, and HitFilm**. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2}
+I enjoy building immersive environments, creating 3D assets, and developing interactive experiences across both technical and creative projects. My work has included real-time environment creation, game design documentation, UI development, animation planning, and gameplay systems using tools such as **Maya, Unity, Unreal Engine, Photoshop, and HitFilm**.
 
 ## About Me
 
@@ -14,7 +14,7 @@ I enjoy building immersive environments, creating 3D assets, and developing inte
 - UI design and accessibility-focused thinking
 - Creative development through both personal and university projects
 
-I am also part of the **Game Development Society** at the University of Greenwich and regularly practise 3D modelling in my own time while continuing to build my skills for a future career in the games industry. :contentReference[oaicite:3]{index=3}
+I am also part of the **Game Development Society** at the University of Greenwich and regularly practise 3D modelling in my own time while continuing to build my skills for a future career in the games industry. 
 
 ## Tools & Skills
 
@@ -29,19 +29,19 @@ I am also part of the **Game Development Society** at the University of Greenwic
 ## Featured Projects
 
 ### The Neon Passage
-A real-time 3D environment focused on visual quality and performance. This project explored **PBR materials, dynamic and baked lighting, post-processing, optimisation, modular environment building, and scene atmosphere**. It helped me develop a stronger understanding of how modelling, lighting, and performance work together in environment art. :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5} :contentReference[oaicite:6]{index=6}
+A real-time 3D environment focused on visual quality and performance. This project explored **PBR materials, dynamic and baked lighting, post-processing, optimisation, modular environment building, and scene atmosphere**. It helped me develop a stronger understanding of how modelling, lighting, and performance work together in environment art.
 
 ### Garden of Whispers
-A third-person horror puzzle game concept focused on **atmosphere, exploration, environmental storytelling, puzzles, and eerie forest environments**. The design includes the use of **Maya** for asset creation, **Substance Painter** for texturing, **Photoshop** for UI and concept work, and **Unreal Engine** for world-building, lighting, events, and gameplay systems. :contentReference[oaicite:7]{index=7} :contentReference[oaicite:8]{index=8}
+A third-person horror puzzle game concept focused on **atmosphere, exploration, environmental storytelling, puzzles, and eerie forest environments**. The design includes the use of **Maya** for asset creation, **Substance Painter** for texturing, **Photoshop** for UI and concept work, and **Unreal Engine** for world-building, lighting, events, and gameplay systems.
 
 ### The Lonely Toolbox
-A short 3D animated film project created in **Autodesk Maya**, centred around anthropomorphic object animation in a garage setting. This project involved planning **modelling, rigging, animation, lighting, rendering, storyboard development, and visual research**, helping me explore character movement and environmental storytelling through 3D animation. :contentReference[oaicite:9]{index=9} :contentReference[oaicite:10]{index=10}
+A short 3D animated film project created in **Autodesk Maya**, centred around anthropomorphic object animation in a garage setting. This project involved planning **modelling, rigging, animation, lighting, rendering, storyboard development, and visual research**, helping me explore character movement and environmental storytelling through 3D animation.
 
 ### Squid Invaders
-A team-based Unity project inspired by classic arcade gameplay, where I worked on **visual assets, gameplay scripting, UI work, debugging, audio integration, and testing**. Through this project, I improved my understanding of collision systems, responsive UI design, playtesting, version control, and iterative development. :contentReference[oaicite:11]{index=11} :contentReference[oaicite:12]{index=12} :contentReference[oaicite:13]{index=13}
+A team-based Unity project inspired by classic arcade gameplay, where I worked on **visual assets, gameplay scripting, UI work, debugging, audio integration, and testing**. Through this project, I improved my understanding of collision systems, responsive UI design, playtesting, version control, and iterative development.
 
 ### The Ball
-A 3D action-survival project with a strong focus on **user-centred design, UI implementation, and accessibility**. This project helped me develop my approach to readable interface design, player feedback, layout planning, and usability across different screen sizes. :contentReference[oaicite:14]{index=14}
+A 3D action-survival project with a strong focus on **user-centred design, UI implementation, and accessibility**. This project helped me develop my approach to readable interface design, player feedback, layout planning, and usability across different screen sizes.
 
 ## Current Focus
 
