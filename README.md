@@ -61,6 +61,8 @@ My goal is to build a career as a **3D Environment Artist**, **3D Modeller**, an
 Outside of coursework, I enjoy:
 - Practicing 3D modelling
 - Playing and testing video games
+- Animating
+- Editing videos
 - Reading comics and manga
 - Attending events such as Comic Con
-- Exploring visual storytelling and world-building
+- Going to museums
