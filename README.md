@@ -28,17 +28,16 @@ I am also part of the **Game Development Society** at the University of Greenwic
 
 ## Featured Projects
 
-### The Neon Passage
-A real-time 3D environment focused on visual quality and performance. This project explored **PBR materials, dynamic and baked lighting, post-processing, optimisation, modular environment building, and scene atmosphere**. It helped me develop a stronger understanding of how modelling, lighting, and performance work together in environment art.
-
 ### Garden of Whispers
 A third-person horror puzzle game concept focused on **atmosphere, exploration, environmental storytelling, puzzles, and eerie forest environments**. The design includes the use of **Maya** for asset creation, **Substance Painter** for texturing, **Photoshop** for UI and concept work, and **Unreal Engine** for world-building, lighting, events, and gameplay systems.
+
+### The Neon Passage
+A real-time 3D environment focused on visual quality and performance. This project explored **PBR materials, dynamic and baked lighting, post-processing, optimisation, modular environment building, and scene atmosphere**. It helped me develop a stronger understanding of how modelling, lighting, and performance work together in environment art.
 
 ### The Lonely Toolbox
 A short 3D animated film project created in **Autodesk Maya**, centred around anthropomorphic object animation in a garage setting. This project involved planning **modelling, rigging, animation, lighting, rendering, storyboard development, and visual research**, helping me explore character movement and environmental storytelling through 3D animation.
 
 ### Tankdom
-
 Tankdom is a 2D top-down tank shooter inspired by Tank Trouble. In this project, I worked on gameplay features such as enemy waves, powerups, keys and doors, a boss fight, UI systems, audio, and game states. The game focuses on survival, where the player must defeat enemies, collect items, and unlock new areas to progress. This project helped me improve my understanding of Unity, gameplay programming, object-oriented programming, UI design, enemy behaviour, and balancing game mechanics.
 
 ### Pingwin Run
