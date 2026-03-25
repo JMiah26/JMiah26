@@ -37,8 +37,8 @@ A third-person horror puzzle game concept focused on **atmosphere, exploration, 
 ### The Lonely Toolbox
 A short 3D animated film project created in **Autodesk Maya**, centred around anthropomorphic object animation in a garage setting. This project involved planning **modelling, rigging, animation, lighting, rendering, storyboard development, and visual research**, helping me explore character movement and environmental storytelling through 3D animation.
 
-### Squid Invaders
-A team-based Unity project inspired by classic arcade gameplay, where I worked on **visual assets, gameplay scripting, UI work, debugging, audio integration, and testing**. Through this project, I improved my understanding of collision systems, responsive UI design, playtesting, version control, and iterative development.
+### Pingwin Run
+A 2D endless runner project developed in Unity, centred on creating engaging gameplay, smooth player movement, obstacle interaction, and replay value. This project helped me develop my skills in gameplay systems, level pacing, collision handling, testing, and iterative design while improving my understanding of how simple mechanics can create an enjoyable player experience.
 
 ### The Ball
 A 3D action-survival project with a strong focus on **user-centred design, UI implementation, and accessibility**. This project helped me develop my approach to readable interface design, player feedback, layout planning, and usability across different screen sizes.
@@ -59,8 +59,8 @@ My goal is to build a career as a **3D Environment Artist**, **3D Modeller**, an
 ## Interests
 
 Outside of coursework, I enjoy:
-- practising 3D modelling
-- playing and testing video games
-- reading comics and manga
-- attending events such as Comic Con
-- exploring visual storytelling and world-building
+- Practicing 3D modelling
+- Playing and testing video games
+- Reading comics and manga
+- Attending events such as Comic Con
+- Exploring visual storytelling and world-building
