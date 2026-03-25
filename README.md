@@ -17,8 +17,6 @@ https://jmiah0317.wixsite.com/creative-portfolio-s
 - UI design and accessibility-focused thinking
 - Creative development through both personal and university projects
 
-I am also part of the **Game Development Society** at the University of Greenwich and regularly practice 3D modelling in my own time while continuing to build my skills for a future career in the games industry. 
-
 ## Tools & Skills
 
 - **3D Modelling:** Autodesk Maya
@@ -51,19 +49,6 @@ A 3D endless runner made in **Unity**, focused on **player movement**, **obstacl
 
 ### The Ball
 A 3D **Unity** project focused more on **UI design** than gameplay, with an emphasis on **accessibility**, **clear layouts**, and **simple user interaction**.
-
-## Current Focus
-
-I am currently focused on improving my:
-- 3D environment art workflows
-- Modelling and asset creation in Maya
-- Real-time scene building in Unity and Unreal Engine
-- Texturing, lighting, and presentation
-- Portfolio development for environment art and game development roles
-
-## Career Goal
-
-My goal is to build a career as a **3D Environment Artist**, **3D Modeller**, and **Game Developer**, contributing to projects and working as part of a team with shared ambitions and a passion for creating games.
 
 ## Interests
 
