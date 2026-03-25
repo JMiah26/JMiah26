@@ -6,8 +6,8 @@ Games Design and Development student at the University of Greenwich with a stron
 
 I enjoy building immersive environments, creating 3D assets, and developing interactive experiences across both technical and creative projects. My work has included real-time environment creation, game design documentation, UI development, animation planning, and gameplay systems using tools such as **Maya, Unity, Unreal Engine, Photoshop, and HitFilm**.
 
-## Trailer
-https://youtu.be/xTUchOLrmQk
+## Website
+https://jmiah0317.wixsite.com/creative-portfolio-s
 
 ## About Me
 
