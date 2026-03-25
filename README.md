@@ -62,4 +62,5 @@ A 3D endless runner made in **Unity**, focused on **player movement**, **obstacl
 ### The Ball
 A 3D **Unity** project focused more on **UI design** than gameplay, with an emphasis on **accessibility**, **clear layouts**, and **simple user interaction**.
 
+
 Thanks for reading ;)
