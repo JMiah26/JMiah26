@@ -32,25 +32,25 @@ I am also part of the **Game Development Society** at the University of Greenwic
 ## Featured Projects
 
 ### Garden of Whispers
-A third-person horror puzzle game concept focused on **atmosphere, exploration, environmental storytelling, puzzles, and eerie forest environments**. The design includes the use of **Maya** for asset creation, **Photoshop** for UI and concept work, and **Unreal Engine** for world-building, lighting, events, and gameplay systems.
+A third-person horror puzzle game focused on atmosphere, exploration, puzzles, and environmental storytelling. I used **Maya** for 3D assets, **Photoshop** for UI and concept work, and **Unreal Engine** for building the world, lighting, and gameplay.
 
 ### 3D Ancient Maya Civilisation
-This project was based on creating a 3D environment inspired by the Ancient Maya civilization during the Classic Period. I researched Maya architecture, structures, colours, and layout ideas, then used that research to plan and build parts of the environment in Autodesk Maya. The project included temples, houses, a ball court, altars, trees, rivers, and other environment props to help represent the setting. It helped me improve my understanding of 3D modelling, environment planning, map layout, and how historical research can be used to support environment design.
+This project was about creating a 3D environment inspired by the Ancient Maya civilisation during the Classic Period. I researched Maya buildings, colours, and layout ideas, then used that research to plan and model parts of the environment in **Autodesk Maya**, including temples, houses, a ball court, altars, trees, and rivers.
 
 ### The Neon Passage
-A real-time 3D environment focused on visual quality and performance. This project explored **PBR materials, dynamic and baked lighting, post-processing, optimisation, modular environment building, and scene atmosphere**. It helped me develop a stronger understanding of how modelling, lighting, and performance work together in environment art.
+A real-time 3D environment focused on atmosphere, lighting, and visual quality. This project included **PBR materials**, **dynamic and baked lighting**, **post-processing**, **optimisation**, and **modular environment building**.
 
 ### The Lonely Toolbox
-A short 3D animated film project created in **Autodesk Maya**, centred around anthropomorphic object animation in a garage setting. This project involved planning **modelling, rigging, animation, lighting, rendering, storyboard development, and visual research**, helping me explore character movement and environmental storytelling through 3D animation.
+A short 3D animated film created in **Autodesk Maya**, based in a garage setting. This project involved **modelling**, **rigging**, **animation**, **lighting**, **rendering**, and **storyboard planning**.
 
 ### Tankdom
-Tankdom is a 2D top-down tank shooter inspired by Tank Trouble. In this project, I worked on gameplay features such as enemy waves, powerups, keys and doors, a boss fight, UI systems, audio, and game states. The game focuses on survival, where the player must defeat enemies, collect items, and unlock new areas to progress. This project helped me improve my understanding of Unity, gameplay programming, object-oriented programming, UI design, enemy behaviour, and balancing game mechanics.
+Tankdom is a 2D top-down tank shooter inspired by Tank Trouble. It includes **enemy waves**, **powerups**, **keys and doors**, **a boss fight**, **UI systems**, **audio**, and different **game states**. The game is focused on survival, where the player defeats enemies, collects items, and unlocks new areas.
 
 ### Pingwin Run
-A 3D endless runner project developed in Unity, centred on creating engaging gameplay, smooth player movement, obstacle interaction, and replay value. This project helped me develop my skills in gameplay systems, level pacing, collision handling, testing, and iterative design while improving my understanding of how simple mechanics can create an enjoyable player experience.
+A 3D endless runner made in **Unity**, focused on **player movement**, **obstacles**, **pickups**, and **replayability**. The project was based around creating smooth gameplay and simple but engaging level progression.
 
 ### The Ball
-A 3D action-survival project with a strong focus on **user-centred design, UI implementation, and accessibility**. This project helped me develop my approach to readable interface design, player feedback, layout planning, and usability across different screen sizes.
+A 3D **Unity** project focused more on **UI design** than gameplay, with an emphasis on **accessibility**, **clear layouts**, and **simple user interaction**.
 
 ## Current Focus
 
