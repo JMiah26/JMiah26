@@ -37,6 +37,10 @@ A third-person horror puzzle game concept focused on **atmosphere, exploration, 
 ### The Lonely Toolbox
 A short 3D animated film project created in **Autodesk Maya**, centred around anthropomorphic object animation in a garage setting. This project involved planning **modelling, rigging, animation, lighting, rendering, storyboard development, and visual research**, helping me explore character movement and environmental storytelling through 3D animation.
 
+### Tankdom
+
+Tankdom is a 2D top-down tank shooter inspired by Tank Trouble. In this project, I worked on gameplay features such as enemy waves, powerups, keys and doors, a boss fight, UI systems, audio, and game states. The game focuses on survival, where the player must defeat enemies, collect items, and unlock new areas to progress. This project helped me improve my understanding of Unity, gameplay programming, object-oriented programming, UI design, enemy behaviour, and balancing game mechanics.
+
 ### Pingwin Run
 A 2D endless runner project developed in Unity, centred on creating engaging gameplay, smooth player movement, obstacle interaction, and replay value. This project helped me develop my skills in gameplay systems, level pacing, collision handling, testing, and iterative design while improving my understanding of how simple mechanics can create an enjoyable player experience.
 
