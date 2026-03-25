@@ -54,7 +54,7 @@ I am currently focused on improving my:
 
 ## Career Goal
 
-My goal is to build a career as a **3D Environment Artist**, **3D Modeller**, and **Game Developer**, contributing to projects that combine strong visual design with engaging gameplay.
+My goal is to build a career as a **3D Environment Artist**, **3D Modeller**, and **Game Developer**, contributing to projects and working as part of a team with shared ambitions and a passion for creating games.
 
 ## Interests
 
