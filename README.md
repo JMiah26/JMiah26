@@ -31,7 +31,7 @@ I am also part of the **Game Development Society** at the University of Greenwic
 ### Garden of Whispers
 A third-person horror puzzle game concept focused on **atmosphere, exploration, environmental storytelling, puzzles, and eerie forest environments**. The design includes the use of **Maya** for asset creation, **Substance Painter** for texturing, **Photoshop** for UI and concept work, and **Unreal Engine** for world-building, lighting, events, and gameplay systems.
 
-### 3D Ancient Maya Civilization
+### 3D Ancient Maya Civilisation
 This project was based on creating a 3D environment inspired by the Ancient Maya civilization during the Classic Period. I researched Maya architecture, structures, colours, and layout ideas, then used that research to plan and build parts of the environment in Autodesk Maya. The project included temples, houses, a ball court, altars, trees, rivers, and other environment props to help represent the setting. It helped me improve my understanding of 3D modelling, environment planning, map layout, and how historical research can be used to support environment design.
 
 ### The Neon Passage
