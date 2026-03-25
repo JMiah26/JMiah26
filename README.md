@@ -14,7 +14,7 @@ I enjoy building immersive environments, creating 3D assets, and developing inte
 - UI design and accessibility-focused thinking
 - Creative development through both personal and university projects
 
-I am also part of the **Game Development Society** at the University of Greenwich and regularly practise 3D modelling in my own time while continuing to build my skills for a future career in the games industry. 
+I am also part of the **Game Development Society** at the University of Greenwich and regularly practice 3D modelling in my own time while continuing to build my skills for a future career in the games industry. 
 
 ## Tools & Skills
 
