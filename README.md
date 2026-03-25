@@ -7,6 +7,7 @@ Games Design and Development student at the University of Greenwich with a stron
 I enjoy building immersive environments, creating 3D assets, and developing interactive experiences across both technical and creative projects. My work has included real-time environment creation, game design documentation, UI development, animation planning, and gameplay systems using tools such as **Maya, Unity, Unreal Engine, Photoshop, and HitFilm**.
 
 ## Website
+
 https://jmiah0317.wixsite.com/creative-portfolio-s
 
 ## About Me
@@ -26,6 +27,17 @@ https://jmiah0317.wixsite.com/creative-portfolio-s
 - **Rendering & Materials:** PBR workflows, lighting, post-processing, optimisation
 - **Game Development:** gameplay systems, UI, level design, testing, debugging
 - **Other Skills:** teamwork, problem-solving, communication, iteration
+
+## Interests
+
+Outside of coursework, I enjoy:
+- Practicing 3D modelling
+- Playing and testing video games
+- Animating
+- Editing videos
+- Reading comics and manga
+- Attending events such as Comic Con
+- Going to museums
 
 ## Featured Projects
 
@@ -50,13 +62,4 @@ A 3D endless runner made in **Unity**, focused on **player movement**, **obstacl
 ### The Ball
 A 3D **Unity** project focused more on **UI design** than gameplay, with an emphasis on **accessibility**, **clear layouts**, and **simple user interaction**.
 
-## Interests
-
-Outside of coursework, I enjoy:
-- Practicing 3D modelling
-- Playing and testing video games
-- Animating
-- Editing videos
-- Reading comics and manga
-- Attending events such as Comic Con
-- Going to museums
+Thanks for reading ;)
